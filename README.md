@@ -1,5 +1,4 @@
 # ce-ris
-Project Specifications: 
 
 1. The game randomly generates tetriminos (4-piece block shapes) to fall from the top of the screen.
 2. The tetriminos fall at increasing speeds incremented at every one minute of game play.
